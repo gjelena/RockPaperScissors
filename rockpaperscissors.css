@@ -1,0 +1,45 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/wp1978951.jpg");
+    background-size: cover;
+}
+
+#gamePlay {
+    color: white;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#playerText {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    align-items: center;
+}
+
+#computerText {
+    color: red;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#resultText {
+    color:darkviolet;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#rockBtn {
+  font-size: 30px;
+  width: 100px;
+  height: 50px;
+}
+#paperBtn{
+    font-size: 30px;
+    width: 100px;
+    height: 50px;
+}
+#scissorsBtn {
+    font-size: 30px;
+    width: 100px;
+    height: 50px;
+}
